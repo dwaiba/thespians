@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "Forty"
+title = "Thespians Netherlands"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
@@ -17,7 +17,7 @@ googleAnalytics = ""
 
   # Provide your metadata here.
   name = "The Thespians, The Netherlands"
-  description = "Public website of the thespians"
+  description = "Public website of the Thespians"
 
   # Link custom assets relative to /static
   custom_css = []
@@ -193,7 +193,7 @@ googleAnalytics = ""
 
     [[params.footer.social]]
       icon = "fa-facebook"
-      url= "https://www.facebook.com"
+      url= "hhttps://www.facebook.com/pg/thespiansnl"
       label = "Facebook"
 
     [[params.footer.social]]
